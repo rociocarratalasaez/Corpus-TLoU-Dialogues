@@ -22,7 +22,7 @@ rosalia.cotelo@uam.es
 
 rocio.carratala@uv.es
 
-## Cite
+## How to cite
 
 We have recently subimtted a scientific article to Information Processing and Management journal presenting this corpus and the results derived from the execution of the scripts that leverage different GPT-4 models to process polarity and emotions.
 
