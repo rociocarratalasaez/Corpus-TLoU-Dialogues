@@ -10,6 +10,8 @@ The Excel of this repository corresponds to a corpus of texts extracted from the
 5. Polarity: One of the target variables that can take three values depending on the polarity of the message, namely Positive (P), Negative (N), and Neutral (NEU).
 6. Emotion: One of the target variables that can take six values depending on the emotion of the message: Anger, Empathy (Empahty/Trust), Fear, Happy, Neutral, Sad, Surprised.
 
+The files in the LLM folder serve to 1) preprocess the data in the corpus, and 2) execute the OpenAI Platform models through Jupyter-notebooks to train, validate and test polarity and emotions.
+
 This development belongs to the research collaboration about Natural Languange Processing through Large Language Models lead by Noemí Merayo, Rosalía Cotelo, and Rocío Carratalá-Sáez, whose e-mail address are as follows:
 
 noemer@uva.es
