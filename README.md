@@ -12,6 +12,8 @@ The Excel of this repository corresponds to a corpus of texts extracted from the
 
 The files in the LLM folder serve to 1) preprocess the data in the corpus, and 2) execute the OpenAI Platform models through Jupyter-notebooks to train, validate and test polarity and emotions.
 
+## Contact
+
 This development belongs to the research collaboration about Natural Languange Processing through Large Language Models lead by Noemí Merayo, Rosalía Cotelo, and Rocío Carratalá-Sáez, whose e-mail address are as follows:
 
 noemer@uva.es
@@ -19,6 +21,10 @@ noemer@uva.es
 rosalia.cotelo@uam.es
 
 rocio.carratala@uv.es
+
+## Cite
+
+We have recently subimtted a scientific article to Information Processing and Management journal presenting this corpus and the results derived from the execution of the scripts that leverage different GPT-4 models to process polarity and emotions.
 
 ## License
 
