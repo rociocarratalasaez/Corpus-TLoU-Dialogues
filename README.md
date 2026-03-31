@@ -13,7 +13,9 @@ The Excel of this repository corresponds to a corpus of texts extracted from the
 This development belongs to the research collaboration about Natural Languange Processing through Large Language Models lead by Noemí Merayo, Rosalía Cotelo, and Rocío Carratalá-Sáez, whose e-mail address are as follows:
 
 noemer@uva.es
+
 rosalia.cotelo@uam.es
+
 rocio.carratala@uv.es
 
 ## License
